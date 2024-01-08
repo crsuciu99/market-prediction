@@ -1,29 +1,30 @@
-# market-prediction
-DataToolkit - Assignment
+# Market Prediction
 
-Table of Contents
+## DataToolkit - Assignment
 
-Description
-Installation
-Usage
-Contributing
-License
+### Table of Contents
 
-Description
+
+1. Description
+2. Installation
+3. Usage
+4. Contributing
+5. License
+### Description
 This repository is  my final project for the Data Toolkit course. It demonstrates my GIT knowledge.
 
-Set-Up
+### Set-Up
 
-Clone the repo: 
+#### Clone the repo: 
 	git clone https://github.com/crsuciu99/market-prediction
 
-Usage
+### Usage
 
-Branches
+### Branches
 	main: Main branch containing the stable version of the website
 	feature/add-about-project: Branch for adding the fileappinfo.txt.
 
-How to add your work ?
+### Contribut
 	Fork the repository.
 	Create a new branch from main for your feature or bug fix.
 		git checkout -b feature/add-new-feature 
